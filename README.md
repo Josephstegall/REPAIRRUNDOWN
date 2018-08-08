@@ -1,0 +1,1 @@
+This is a program that will register new users and keep track of their car repairs. Users will be able to select what kind of car they have and then write notes on the repair work done. They will be able to retrieve that information via MySQL.
